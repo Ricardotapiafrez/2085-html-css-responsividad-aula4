@@ -104,7 +104,8 @@ body{
 }
 
 .presentacion__imagen{
-    width: 50%;
+    width: 40%;
+    padding: 5%;
 }
 
 .footer{
